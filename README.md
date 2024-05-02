@@ -1,4 +1,4 @@
-# Batch Image to TEX Converter
+# RENDERMAN Batch Image to TEX Converter
 
 ## Overview
 
