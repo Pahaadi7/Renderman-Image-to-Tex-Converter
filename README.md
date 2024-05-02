@@ -19,7 +19,8 @@ Batch Image to TEX Converter is a simple GUI application built with Python and P
 If you have the executable (`.exe`) file:
 1. Simply double-click on the `.exe` file to run the application.
 2. Follow the on-screen instructions to select the TxMake utility (`txmake.exe`) and input image files.
-3. Click on the "Convert" button to start the conversion process.
+3. Typically, the TxMake utility is located in the installation directory of RenderMan Pro Server. The path may look like: C:\Program Files\Pixar\RenderManProServer-26.1\bin.
+4. Click on the "Convert" button to start the conversion process.
 
 ### Source Code
 
